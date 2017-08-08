@@ -1,5 +1,8 @@
 # telerik-aspnet-core-autorest
 
+Follow instructions at http://docs.telerik.com/aspnet-mvc/getting-started/nuget-install
+to get the private telerik nuget feed setup.
+
 
 Run projects directly do not use IIS or IISExpress
 Web runs at 5000
